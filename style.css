@@ -32,13 +32,8 @@
 .bold {
     font-weight: bold;
 }
-.main-footer {
-    display: flexbox;
-    text-align: center;
-    background-color:darkblue;
-    color: white;
-    padding: .25em .5em .5em ;   
-}
+
+
 .main-header{
     display: flexbox;
     text-align: center;
@@ -46,11 +41,28 @@
     color: white;
     padding:.25em.5em.5em ;
 }
-.row{
-    width: 75%;
+.main-footer{
+    display: flexbox;
+    background-color: darkblue;
+    color : white;
+    padding: 25px;
 }
-.col {
-    /* flex-basis: 25%; */
-    padding: 5px;
-    border: 1px solid black;
+
+.copyright{
+    float: left;
+}
+.footer-text{
+    float: left;
+}
+.footer-logo{
+    float:right;
+}
+.col{
+    width: 33.3%;
+    /* background-color: red; */
+   
+}
+.from{
+    text-align:right;
+    color: red;
 }
