@@ -63,6 +63,10 @@
    
 }
 .from{
-    text-align:right;
+    float : right;
     color: red;
+
+}
+.exp-years{
+    float: right;
 }

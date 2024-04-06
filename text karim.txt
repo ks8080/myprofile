@@ -1,0 +1,18 @@
+
+       Hi, i am Karim Somani
+        
+        
+        Full Stack Website Developer
+        
+            Summary :
+            A self-motivated, hardworking IT expert, With 16 years of experienced, and who persistently drives for excellence in the field of Information Technology.
+            <img src="/images/profile.jpg" alt="profile_pic" width="20%">
+         I have multiple Skills Set such as Software, Programming, Web Applications, Back-end and Databases,  Business Intelligence, Big Data Hadoop, Server Administrator, Computer Hardware & Networking (front-end Development HTML, CSS, Javascript), Databases(SQL, Hive, MS Access, Foxpro) 
+            Programming (Visual Basic 6.0, Java ), FrameWork(Apache Spark and Scala).
+
+
+<!-- Anchor links -->
+    <a>Skills</a>
+    <a>Youtube</a>
+    <a>Expierenced</a>
+    <a>Education</a>
